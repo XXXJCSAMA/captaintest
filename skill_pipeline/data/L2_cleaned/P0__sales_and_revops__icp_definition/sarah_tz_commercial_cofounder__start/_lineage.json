@@ -1,0 +1,37 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/sarah_tz_commercial_cofounder/repo/.claude/skills/start",
+  "source_repo": "sarah-tz/commercial-cofounder",
+  "source_commit": "6295a17092350bad7553242caa3af238c51bd2cc",
+  "source_url": "https://github.com/sarah-tz/commercial-cofounder",
+  "source_author": "sarah-tz",
+  "crawled_at": "2026-10-02T10:37:11Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/sarah_tz_commercial_cofounder__start",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Missing top-level heading (# Title) in SKILL.md body in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/sarah_tz_commercial_cofounder/repo/.claude/skills/start/SKILL.md"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 83.5,
+      "grade": "B",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 85.0,
+        "discoverability": 70.0,
+        "reliability": 85.0,
+        "efficiency": 100.0
+      },
+      "tokens": 1139
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 3,
+      "medium": 5,
+      "low": 5
+    }
+  }
+}

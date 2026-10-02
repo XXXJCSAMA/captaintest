@@ -1,0 +1,38 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/gtm_skills_gtm/repo/openclaw-skills/mission-control",
+  "source_repo": "gtm-skills/gtm",
+  "source_commit": "bdb4780d910470029d6f481d3c774cde6953c887",
+  "source_url": "https://github.com/gtm-skills/gtm",
+  "source_author": "gtm-skills",
+  "crawled_at": "2026-10-02T10:39:25Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/gtm_skills_gtm__mission-control",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] SKILL.md must have YAML frontmatter between --- markers in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/gtm_skills_gtm/repo/openclaw-skills/mission-control/SKILL.md:1",
+    "Semantic Version Validation: SKILL.md must have YAML frontmatter between --- markers"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 91.0,
+      "grade": "A",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 95.0,
+        "discoverability": 95.0,
+        "reliability": 85.0,
+        "efficiency": 85.0
+      },
+      "tokens": 2402
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 1,
+      "medium": 3,
+      "low": 5
+    }
+  }
+}

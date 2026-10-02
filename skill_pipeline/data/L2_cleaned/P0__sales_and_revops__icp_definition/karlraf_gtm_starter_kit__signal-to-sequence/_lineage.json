@@ -1,0 +1,38 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/karlraf_gtm_starter_kit/repo/skills/signal-to-sequence",
+  "source_repo": "KarlRaf/gtm-starter-kit",
+  "source_commit": "8c7ffe312c0f20e87df9bfa6eb94b376126fd3fe",
+  "source_url": "https://github.com/KarlRaf/gtm-starter-kit",
+  "source_author": "KarlRaf",
+  "crawled_at": "2026-10-02T10:39:14Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/karlraf_gtm_starter_kit__signal-to-sequence",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] SKILL.md must have YAML frontmatter between --- markers in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/karlraf_gtm_starter_kit/repo/skills/signal-to-sequence/SKILL.md:1",
+    "Semantic Version Validation: SKILL.md must have YAML frontmatter between --- markers"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 93.8,
+      "grade": "A",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 100.0,
+        "discoverability": 100.0,
+        "reliability": 75.0,
+        "efficiency": 100.0
+      },
+      "tokens": 2370
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 1,
+      "medium": 0,
+      "low": 4
+    }
+  }
+}

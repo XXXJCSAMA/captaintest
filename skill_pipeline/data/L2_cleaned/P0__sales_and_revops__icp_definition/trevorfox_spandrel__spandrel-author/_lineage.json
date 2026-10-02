@@ -1,0 +1,38 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/trevorfox_spandrel/repo/.claude/skills/spandrel-author",
+  "source_repo": "trevorfox/spandrel",
+  "source_commit": "37b35c66656540e3411f89eef98f064ca6db4f74",
+  "source_url": "https://github.com/trevorfox/spandrel",
+  "source_author": "trevorfox",
+  "crawled_at": "2026-10-02T10:41:25Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/trevorfox_spandrel__spandrel-author",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Author not specified in metadata in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/trevorfox_spandrel/repo/.claude/skills/spandrel-author/SKILL.md",
+    "Semantic Version Validation: [VERSION-HIGH] Version '1.0' is not strict semantic version x.y.z in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/trevorfox_spandrel/repo/.claude/skills/spandrel-author/SKILL.md"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 84.2,
+      "grade": "B",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 80.0,
+        "discoverability": 90.0,
+        "reliability": 75.0,
+        "efficiency": 100.0
+      },
+      "tokens": 1067
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 2,
+      "medium": 5,
+      "low": 7
+    }
+  }
+}

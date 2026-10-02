@@ -1,0 +1,37 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/markmhendrickson_pmm_skillset_neotoma/repo/skills/icp-definition-neotoma",
+  "source_repo": "markmhendrickson/pmm-skillset-neotoma",
+  "source_commit": "63d288cf15822df36a9d024bda33252e19b26981",
+  "source_url": "https://github.com/markmhendrickson/pmm-skillset-neotoma",
+  "source_author": "markmhendrickson",
+  "crawled_at": "2026-10-02T10:36:45Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/markmhendrickson_pmm_skillset_neotoma__icp-definition-neotoma",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Author must be of the form 'Name <email@host>' in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/markmhendrickson_pmm_skillset_neotoma/repo/skills/icp-definition-neotoma/SKILL.md"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 87.8,
+      "grade": "B",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 90.0,
+        "discoverability": 85.0,
+        "reliability": 80.0,
+        "efficiency": 100.0
+      },
+      "tokens": 1068
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 1,
+      "medium": 5,
+      "low": 6
+    }
+  }
+}

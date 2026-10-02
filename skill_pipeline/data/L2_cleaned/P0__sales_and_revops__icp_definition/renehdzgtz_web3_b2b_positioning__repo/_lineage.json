@@ -1,0 +1,38 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/renehdzgtz_web3_b2b_positioning/repo",
+  "source_repo": "ReneHdzGtz/web3-b2b-positioning",
+  "source_commit": "8b2e26012780977a67e1d30d712be4fee8dbee11",
+  "source_url": "https://github.com/ReneHdzGtz/web3-b2b-positioning",
+  "source_author": "ReneHdzGtz",
+  "crawled_at": "2026-10-02T10:36:48Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/renehdzgtz_web3_b2b_positioning__repo",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Directory name 'repo' doesn't match frontmatter name 'web3-b2b-positioning' in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/renehdzgtz_web3_b2b_positioning/repo/SKILL.md",
+    "Code Integrity & Hygiene: Dead link in README.md: banner.svg"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 85.2,
+      "grade": "B",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 85.0,
+        "discoverability": 80.0,
+        "reliability": 85.0,
+        "efficiency": 95.0
+      },
+      "tokens": 3971
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 2,
+      "medium": 7,
+      "low": 6
+    }
+  }
+}

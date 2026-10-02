@@ -1,0 +1,37 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/paulnugentuk_pmmstack/repo/skills/jtbd-miner",
+  "source_repo": "paulnugentuk/pmmstack",
+  "source_commit": "40f1e7708e6e565ac79ac800626c918284ebcfd1",
+  "source_url": "https://github.com/paulnugentuk/pmmstack",
+  "source_author": "paulnugentuk",
+  "crawled_at": "2026-10-02T10:36:42Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/paulnugentuk_pmmstack__jtbd-miner",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Author not specified in metadata in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/paulnugentuk_pmmstack/repo/skills/jtbd-miner/SKILL.md"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 84.8,
+      "grade": "B",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 85.0,
+        "discoverability": 75.0,
+        "reliability": 85.0,
+        "efficiency": 100.0
+      },
+      "tokens": 2210
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 1,
+      "medium": 6,
+      "low": 5
+    }
+  }
+}

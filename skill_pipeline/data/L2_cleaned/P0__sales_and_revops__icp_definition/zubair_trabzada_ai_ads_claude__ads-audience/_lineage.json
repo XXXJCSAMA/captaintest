@@ -1,0 +1,38 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude/repo/skills/ads-audience",
+  "source_repo": "zubair-trabzada/ai-ads-claude",
+  "source_commit": "d1df3f544249191cbc600c8301e2b9d5ddd121c8",
+  "source_url": "https://github.com/zubair-trabzada/ai-ads-claude",
+  "source_author": "zubair-trabzada",
+  "crawled_at": "2026-10-02T10:39:04Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude__ads-audience",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Field 'name': Value error, Skill name 'Audience Persona Builder' must be in kebab-case format (lowercase letters, numbers, and hyphens only, starting with a letter) in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude/repo/skills/ads-audience/SKILL.md",
+    "QUALITY: [QUALITY-HIGH] Invalid name format: 'Audience Persona Builder' (lowercase/numbers/hyphens only) in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude/repo/skills/ads-audience/SKILL.md"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 79.5,
+      "grade": "C",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 70.0,
+        "discoverability": 85.0,
+        "reliability": 75.0,
+        "efficiency": 100.0
+      },
+      "tokens": 3570
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 2,
+      "medium": 3,
+      "low": 6
+    }
+  }
+}

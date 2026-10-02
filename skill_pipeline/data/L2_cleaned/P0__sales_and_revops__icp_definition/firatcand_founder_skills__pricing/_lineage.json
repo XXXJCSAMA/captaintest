@@ -1,0 +1,37 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/firatcand_founder_skills/repo/pricing",
+  "source_repo": "firatcand/founder-skills",
+  "source_commit": "d4d207119b9affb3cd653805c9807598841e90f2",
+  "source_url": "https://github.com/firatcand/founder-skills",
+  "source_author": "firatcand",
+  "crawled_at": "2026-10-02T10:40:32Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/firatcand_founder_skills__pricing",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Author not specified in metadata in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/firatcand_founder_skills/repo/pricing/SKILL.md"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 86.8,
+      "grade": "B",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 80.0,
+        "discoverability": 90.0,
+        "reliability": 85.0,
+        "efficiency": 100.0
+      },
+      "tokens": 1275
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 1,
+      "medium": 6,
+      "low": 7
+    }
+  }
+}

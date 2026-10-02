@@ -1,0 +1,38 @@
+{
+  "source_l1_path": "data/L1_raw/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude/repo/skills/ads-testing",
+  "source_repo": "zubair-trabzada/ai-ads-claude",
+  "source_commit": "d1df3f544249191cbc600c8301e2b9d5ddd121c8",
+  "source_url": "https://github.com/zubair-trabzada/ai-ads-claude",
+  "source_author": "zubair-trabzada",
+  "crawled_at": "2026-10-02T10:39:04Z",
+  "cleaned_at": "2026-10-02T13:20:10+00:00",
+  "cleaned_by": "skillevaluator_tier1_v0.3.0__no_llm",
+  "l2_path": "data/L2_cleaned/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude__ads-testing",
+  "decision": "warn",
+  "filter_passed": [
+    "Schema & Repository Governance: [SCHEMA-HIGH] Author not specified in metadata in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude/repo/skills/ads-testing/SKILL.md",
+    "QUALITY: [QUALITY-HIGH] Large skill (5361 tokens, recommended max <5000). Per agentskills.io, SKILL.md should be concise (~500 lines) — large skill bodies increase token cost after invocation; long or unfocused top-level descriptions can degrade agent routing accuracy in /home/lab/captaintest/skill_pipeline/data/L1_raw/P0__sales_and_revops__icp_definition/zubair_trabzada_ai_ads_claude/repo/skills/ads-testing/SKILL.md"
+  ],
+  "filter_hard_failed": [],
+  "redactions": {},
+  "score_card": {
+    "quality": {
+      "overall": 83.8,
+      "grade": "B",
+      "skill_type": "guide-only",
+      "dimensions": {
+        "correctness": 85.0,
+        "discoverability": 90.0,
+        "reliability": 75.0,
+        "efficiency": 85.0
+      },
+      "tokens": 5361
+    },
+    "severity_counts": {
+      "critical": 0,
+      "high": 2,
+      "medium": 6,
+      "low": 6
+    }
+  }
+}
