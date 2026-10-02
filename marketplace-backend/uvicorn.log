@@ -1,0 +1,74 @@
+INFO:     Started server process [120173]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:54641 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52129 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52131 - "GET /api/skills/automatewithsaurabh_saas_gtm_navigator__repo HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54351 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54359 - "GET /api/skills/automatewithsaurabh_saas_gtm_navigator__repo HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54371 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=group_chat_001 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62261 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62261 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29958 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29958 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29958 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29958 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29958 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29958 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29881 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29881 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29881 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29881 - "POST /api/skills/fearofsnakes_pmm_skillset__competitive-landing-page/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29881 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__launch-brief/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__launch-brief/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__launch-brief/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56434 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54647 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43615 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43615 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46235 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46235 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46235 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46235 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__messaging-hierarchy/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__messaging-hierarchy/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__positioning-audit/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__battle-card/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/automatewithsaurabh_saas_gtm_navigator__repo/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__icp-definition/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__launch-brief/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/fearofsnakes_pmm_skillset__competitive-landing-page/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/zubair_trabzada_ai_ads_claude__ads-hooks/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51116 - "POST /api/skills/zubair_trabzada_ai_ads_claude__ads-strategy/add-to-captain?group_chat_id=xxx HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63094 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63094 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63556 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63556 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40235 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40235 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37117 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20264 - "GET /api/skills HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [120173]
