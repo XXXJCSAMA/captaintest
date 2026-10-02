@@ -1,0 +1,32 @@
+{
+  "candidate_id": "024188b3-eb2c-419a-92a1-190d2be26be1",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "trevorfox/spandrel",
+  "source_author": "trevorfox",
+  "source_commit": "37b35c66656540e3411f89eef98f064ca6db4f74",
+  "source_url": "https://github.com/trevorfox/spandrel",
+  "crawled_at": "2026-10-02T10:41:25Z",
+  "stars": 19,
+  "license_raw": "MIT",
+  "description": "Turn markdown file trees into navigable, queryable knowledge graphs served over MCP",
+  "topics": [],
+  "language": "TypeScript",
+  "updated_at": "2026-08-24T16:40:02Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/trevorfox_spandrel/repo",
+  "files": [
+    ".claude/skills/spandrel-author/SKILL.md",
+    ".claude/skills/spandrel-builder/SKILL.md",
+    "CLAUDE.md",
+    "LICENSE",
+    "README.md",
+    "scripts/generate-schema-json.ts",
+    "scripts/render-architecture.ts",
+    "spandrel-tools/README.md",
+    "test/fidelity/README.md"
+  ],
+  "likely_irrelevant": false
+}

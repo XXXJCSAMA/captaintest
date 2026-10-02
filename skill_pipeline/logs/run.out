@@ -1,0 +1,26 @@
+[2026-10-02T10:36:26Z] [1] (P0) Sales & RevOps :: ICP Definition
+[2026-10-02T10:36:35Z]   [skip] negative-keyword: chadboyda/agent-gtm-skills
+[2026-10-02T10:36:35Z]   [skip] negative-keyword: shyftai/GTMOS
+[2026-10-02T10:36:35Z]   [skip] negative-keyword: tech-leads-club/agent-skills
+[2026-10-02T10:36:35Z]   [skip] negative-keyword: shawnla90/gtm-coding-agent
+[2026-10-02T10:36:35Z]     candidates=42
+[2026-10-02T10:36:35Z]     [1/42] paulnugentuk/pmmstack (2*)
+[2026-10-02T10:36:42Z]     [2/42] markmhendrickson/pmm-skillset-neotoma (2*)
+[2026-10-02T10:36:45Z]     [3/42] ReneHdzGtz/web3-b2b-positioning (1*)
+[2026-10-02T10:36:48Z]     [4/42] snowmanai-ops/cold-email-skill (0*)
+[2026-10-02T10:36:55Z]     [5/42] automatewithsaurabh/SaaS-GTM-Navigator (0*)
+[2026-10-02T10:36:59Z]     [6/42] sarah-tz/commercial-cofounder (0*)
+[2026-10-02T10:37:11Z]     [7/42] ericosiu/ai-marketing-skills (None*)
+[2026-10-02T10:38:06Z]     [8/42] shawnpang/startup-founder-skills (336*)
+[2026-10-02T10:38:49Z]     [9/42] zubair-trabzada/ai-ads-claude (265*)
+[2026-10-02T10:39:04Z]     [10/42] KarlRaf/gtm-starter-kit (202*)
+[2026-10-02T10:39:14Z]     [11/42] gtm-skills/gtm (171*)
+[2026-10-02T10:39:25Z]     [12/42] Awaisali36/50k-lead-generation-system (95*)
+[2026-10-02T10:39:29Z]     [13/42] Productfculty-aipm/PM-Copilot-by-Product-Faculty (77*)
+[2026-10-02T10:40:16Z]     [14/42] firatcand/founder-skills (40*)
+[2026-10-02T10:40:32Z]     [15/42] janskuba/claude-md-repo (29*)
+[2026-10-02T10:40:35Z]     [16/42] Fearofsnakes/pmm-skillset (None*)
+[2026-10-02T10:40:52Z]     [17/42] Prospeda/gtm-skills (23*)
+[2026-10-02T10:41:16Z]     [18/42] trevorfox/spandrel (19*)
+[2026-10-02T10:41:25Z]     [19/42] giovannibrees/launch-team-agents (18*)
+[2026-10-02T10:41:34Z]     [20/42] jeremylongshore/tons-of-skills-marketplace (None*)

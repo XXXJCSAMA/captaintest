@@ -1,0 +1,35 @@
+{
+  "candidate_id": "f6578661-c7b4-44d4-84cf-fe3891bea922",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "paulnugentuk/pmmstack",
+  "source_author": "paulnugentuk",
+  "source_commit": "40f1e7708e6e565ac79ac800626c918284ebcfd1",
+  "source_url": "https://github.com/paulnugentuk/pmmstack",
+  "crawled_at": "2026-10-02T10:36:42Z",
+  "stars": 2,
+  "license_raw": null,
+  "description": "AI-powered skills for product marketers — JTBD mining, JTBD validation, ICP definition, and positioning workshops. Built for Claude",
+  "topics": [
+    "claude",
+    "claude-skills",
+    "jtbd",
+    "positioning",
+    "product-marketing"
+  ],
+  "language": null,
+  "updated_at": "2026-09-22T09:46:59Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/paulnugentuk_pmmstack/repo",
+  "files": [
+    "CLAUDE.md",
+    "README.md",
+    "skills/icp-definer/SKILL.md",
+    "skills/jtbd-miner/SKILL.md",
+    "skills/jtbd-validator/SKILL.md",
+    "skills/positioning-workshop/SKILL.md"
+  ],
+  "likely_irrelevant": false
+}

@@ -1,0 +1,27 @@
+{
+  "candidate_id": "702e132f-bc3a-473f-8970-11578dc61378",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "automatewithsaurabh/SaaS-GTM-Navigator",
+  "source_author": "automatewithsaurabh",
+  "source_commit": "c6f94747be3c779e5ab52724a15c390789be2867",
+  "source_url": "https://github.com/automatewithsaurabh/SaaS-GTM-Navigator",
+  "crawled_at": "2026-10-02T10:36:59Z",
+  "stars": 0,
+  "license_raw": "Apache-2.0",
+  "description": "A Claude Skill for SaaS founders — ICP definition, competitive positioning, and launch sequencing. Free and open source.",
+  "topics": [],
+  "language": null,
+  "updated_at": "2026-03-09T11:38:05Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/automatewithsaurabh_saas_gtm_navigator/repo",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "SKILL.md",
+    "references/launch-channels.md"
+  ],
+  "likely_irrelevant": false
+}

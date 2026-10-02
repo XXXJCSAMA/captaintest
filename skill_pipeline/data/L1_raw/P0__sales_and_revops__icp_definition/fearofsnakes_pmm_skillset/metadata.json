@@ -1,0 +1,38 @@
+{
+  "candidate_id": "058d58ae-46cb-4ebb-980e-bb860fc0b1e0",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "Fearofsnakes/pmm-skillset",
+  "source_author": "Fearofsnakes",
+  "source_commit": "11eabde4b63f6d346d33e988eb25b0f6b008efe2",
+  "source_url": "https://github.com/Fearofsnakes/pmm-skillset",
+  "crawled_at": "2026-10-02T10:40:51Z",
+  "stars": 28,
+  "license_raw": "MIT",
+  "description": "Claude Code skills for Product Marketing Managers — messaging, positioning, ICP, launch, and sales enablement.",
+  "topics": [
+    "marketing",
+    "productivity"
+  ],
+  "language": "HTML",
+  "updated_at": "2026-09-17T02:28:58Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/fearofsnakes_pmm_skillset/repo",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "skills/tier-1/icp-definition/SKILL.md",
+    "skills/tier-1/messaging-hierarchy/SKILL.md",
+    "skills/tier-1/positioning-audit/SKILL.md",
+    "skills/tier-2/competitive-landing-page/SKILL.md",
+    "skills/tier-2/message-market-fit/SKILL.md",
+    "skills/tier-2/voc-synthesis/SKILL.md",
+    "skills/tier-3/battle-card/SKILL.md",
+    "skills/tier-3/feature-announcement/SKILL.md",
+    "skills/tier-3/launch-brief/SKILL.md",
+    "skills/tier-3/sales-narrative/SKILL.md"
+  ],
+  "likely_irrelevant": false
+}

@@ -1,0 +1,25 @@
+{
+  "candidate_id": "44264e11-ca8d-47f2-8a51-2b6fd9008556",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "ReneHdzGtz/web3-b2b-positioning",
+  "source_author": "ReneHdzGtz",
+  "source_commit": "8b2e26012780977a67e1d30d712be4fee8dbee11",
+  "source_url": "https://github.com/ReneHdzGtz/web3-b2b-positioning",
+  "crawled_at": "2026-10-02T10:36:48Z",
+  "stars": 1,
+  "license_raw": null,
+  "description": "SKILL.md for AI agents — Positioning and sales framework for Web3 and blockchain products targeting enterprise buyers. Includes messaging hierarchy, pitch collateral, jargon translation, objection handling, and ICP definition.",
+  "topics": [],
+  "language": null,
+  "updated_at": "2026-06-24T10:07:36Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/renehdzgtz_web3_b2b_positioning/repo",
+  "files": [
+    "README.md",
+    "SKILL.md"
+  ],
+  "likely_irrelevant": false
+}

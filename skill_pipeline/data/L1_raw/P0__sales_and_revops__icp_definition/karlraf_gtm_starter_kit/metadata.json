@@ -1,0 +1,32 @@
+{
+  "candidate_id": "9c9f0b87-ac9e-44e3-a8ce-2800d6cd971d",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "KarlRaf/gtm-starter-kit",
+  "source_author": "KarlRaf",
+  "source_commit": "8c7ffe312c0f20e87df9bfa6eb94b376126fd3fe",
+  "source_url": "https://github.com/KarlRaf/gtm-starter-kit",
+  "crawled_at": "2026-10-02T10:39:14Z",
+  "stars": 202,
+  "license_raw": null,
+  "description": "A Claude Code repository for GTM teams. Context templates, skills, workflows, and a fully built-out example — fork it, fill in your context, and run AI-powered GTM tasks from a single prompt.",
+  "topics": [],
+  "language": "Python",
+  "updated_at": "2026-10-02T07:04:18Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/karlraf_gtm_starter_kit/repo",
+  "files": [
+    "CLAUDE.md",
+    "README.md",
+    "examples/sample-company/CLAUDE.md",
+    "skills/account-research/SKILL.md",
+    "skills/icp-scoring/SKILL.md",
+    "skills/setup/SKILL.md",
+    "skills/signal-to-sequence/SKILL.md",
+    "skills/weekly-update/SKILL.md",
+    "sync/README.md"
+  ],
+  "likely_irrelevant": false
+}

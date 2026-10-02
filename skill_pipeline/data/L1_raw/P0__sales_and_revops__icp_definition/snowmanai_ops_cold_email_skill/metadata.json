@@ -1,0 +1,29 @@
+{
+  "candidate_id": "f585076a-8ecd-47bb-bd41-597ebad5f9b1",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "snowmanai-ops/cold-email-skill",
+  "source_author": "snowmanai-ops",
+  "source_commit": "25ccd56c91c3f903b2197c777e91ed51e5f8d9c7",
+  "source_url": "https://github.com/snowmanai-ops/cold-email-skill",
+  "crawled_at": "2026-10-02T10:36:54Z",
+  "stars": 0,
+  "license_raw": null,
+  "description": "Cold email skill for Claude Code - covers ICP definition, subject lines, openers, CTAs, personalization, case studies, and follow-up sequences",
+  "topics": [],
+  "language": null,
+  "updated_at": "2026-02-13T11:02:25Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/snowmanai_ops_cold_email_skill/repo",
+  "files": [
+    "SKILL.md",
+    "references/complete-angle-examples.md",
+    "references/email-frameworks.md",
+    "references/follow-up-sequences.md",
+    "references/icp-definition.md",
+    "references/personalization-examples.md"
+  ],
+  "likely_irrelevant": false
+}

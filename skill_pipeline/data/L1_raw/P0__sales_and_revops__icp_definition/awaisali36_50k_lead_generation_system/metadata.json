@@ -1,0 +1,41 @@
+{
+  "candidate_id": "9e971407-af1f-45c0-bb34-ea8b86ed3fe3",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "Awaisali36/50k-lead-generation-system",
+  "source_author": "Awaisali36",
+  "source_commit": "f3037f0dd72979e9fc06c6d3f543c5af15fe4822",
+  "source_url": "https://github.com/Awaisali36/50k-lead-generation-system",
+  "crawled_at": "2026-10-02T10:39:28Z",
+  "stars": 95,
+  "license_raw": "MIT",
+  "description": "🎯 Complete B2B lead generation system combining Apollo.io, Google Search, LinkedIn scraping, and AI qualification. Generate, enrich, and score thousands of leads automatically with n8n, Airtable, and Google Gemini.",
+  "topics": [
+    "ai-qualification",
+    "airtable",
+    "apify",
+    "apollo-io",
+    "b2b-sales",
+    "crm-automation",
+    "google-gemini",
+    "lead-enrichment",
+    "lead-generation",
+    "linkedin-scraping",
+    "n8n-workflow",
+    "prospecting",
+    "sales-automation",
+    "serper-api",
+    "tavily"
+  ],
+  "language": null,
+  "updated_at": "2026-10-01T16:45:41Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/awaisali36_50k_lead_generation_system/repo",
+  "files": [
+    "LICENSE",
+    "README.md"
+  ],
+  "likely_irrelevant": false
+}

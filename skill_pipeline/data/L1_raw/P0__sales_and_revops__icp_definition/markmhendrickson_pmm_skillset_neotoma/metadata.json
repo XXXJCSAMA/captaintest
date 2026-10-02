@@ -1,0 +1,32 @@
+{
+  "candidate_id": "0f5db54b-4f22-4328-9ad6-c0161a29c1f6",
+  "priority": "P0",
+  "domain": "Sales & RevOps",
+  "topic": "ICP Definition",
+  "topic_slug": "icp_definition",
+  "source_repo": "markmhendrickson/pmm-skillset-neotoma",
+  "source_author": "markmhendrickson",
+  "source_commit": "63d288cf15822df36a9d024bda33252e19b26981",
+  "source_url": "https://github.com/markmhendrickson/pmm-skillset-neotoma",
+  "crawled_at": "2026-10-02T10:36:45Z",
+  "stars": 2,
+  "license_raw": "MIT",
+  "description": "A reference bridge giving Gab Bujold's pmm-skillset a persistent memory via Neotoma. Wraps icp-definition (unmodified): reads prior state + real evaluator quotes before the run, writes the ICP back as entities after.",
+  "topics": [
+    "agent-memory",
+    "claude-code",
+    "neotoma",
+    "pmm",
+    "product-marketing"
+  ],
+  "language": "TypeScript",
+  "updated_at": "2026-06-30T16:02:02Z",
+  "default_branch": "main",
+  "raw_path": "data/L1_raw/P0__sales_and_revops__icp_definition/markmhendrickson_pmm_skillset_neotoma/repo",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "skills/icp-definition-neotoma/SKILL.md"
+  ],
+  "likely_irrelevant": false
+}
